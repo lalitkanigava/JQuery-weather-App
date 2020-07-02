@@ -1,0 +1,10 @@
+body{
+    background-image: url('img/1.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-size: 100% 100%;
+}
+.transparent-input {
+background-color: rgba(0, 0, 0, 0);
+}
